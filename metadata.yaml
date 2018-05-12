@@ -1,0 +1,46 @@
+_repo: The-Mesmerist-s-Victim_42690
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Williams, Henry Llewellyn
+    aliases:
+    - Mizzen, Matt
+    - Williams, Llew
+    - Williams, H. L. (Henry Llewellyn)
+    - Mizen, Mat
+    birthdate: 1842
+    gutenberg_agent_id: '2433'
+    url: http://www.gutenberg.org/2009/agents/2433
+covers:
+- cover_type: archival
+  image_path: 42690-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas père, Alexandre
+    - Dumas, Alexander
+    - Dumas, Alexandre, pere
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: ''
+gutenberg_issued: '2013-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42690'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Du Barry, Jeanne Bécu, comtesse, 1743-1793 -- Fiction'
+- !lcsh 'France -- History -- Louis XVI, 1774-1793 -- Fiction'
+- !lcsh 'Cagliostro, Alessandro, conte di, 1743-1795 -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Marie Antoinette, Queen, consort of Louis XVI, King of France, 1755-1793
+  -- Fiction'
+title: The Mesmerist's Victim
+url: http://www.gutenberg.org/ebooks/42690
